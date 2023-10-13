@@ -1,0 +1,367 @@
+{
+    "0": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "164, 74",
+        "image_rect_size": "38, 56"
+    },
+    "1": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "138, 133",
+        "image_rect_size": "38, 55"
+    },
+    "2": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "177, 133",
+        "image_rect_size": "33, 55"
+    },
+    "3": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "203, 74",
+        "image_rect_size": "31, 56"
+    },
+    "4": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "384, 74",
+        "image_rect_size": "39, 54"
+    },
+    "5": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "211, 133",
+        "image_rect_size": "29, 55"
+    },
+    "6": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "235, 74",
+        "image_rect_size": "37, 56"
+    },
+    "7": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "351, 133",
+        "image_rect_size": "34, 54"
+    },
+    "8": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "273, 74",
+        "image_rect_size": "36, 56"
+    },
+    "9": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "310, 74",
+        "image_rect_size": "36, 56"
+    },
+    "R": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "0, 293",
+        "image_rect_size": "38, 47"
+    },
+    ".": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "175, 384",
+        "image_rect_size": "13, 13"
+    },
+    "c": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "0, 341",
+        "image_rect_size": "36, 42"
+    },
+    "S": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "266, 190",
+        "image_rect_size": "36, 49"
+    },
+    "u": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "223, 341",
+        "image_rect_size": "33, 41"
+    },
+    "d": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "323, 0",
+        "image_rect_size": "36, 59"
+    },
+    "V": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "85, 293",
+        "image_rect_size": "45, 47"
+    },
+    "H": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "148, 245",
+        "image_rect_size": "36, 47"
+    },
+    "T": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "39, 293",
+        "image_rect_size": "45, 47"
+    },
+    "]": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "228, 0",
+        "image_rect_size": "24, 68"
+    },
+    "n": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "155, 341",
+        "image_rect_size": "34, 41"
+    },
+    "g": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "347, 74",
+        "image_rect_size": "36, 56"
+    },
+    "F": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "112, 245",
+        "image_rect_size": "35, 47"
+    },
+    "b": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "286, 0",
+        "image_rect_size": "36, 59"
+    },
+    "l": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "139, 74",
+        "image_rect_size": "24, 58"
+    },
+    "Z": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "268, 293",
+        "image_rect_size": "39, 47"
+    },
+    "}": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "170, 0",
+        "image_rect_size": "31, 68"
+    },
+    "[": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "202, 0",
+        "image_rect_size": "25, 68"
+    },
+    ")": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "69, 0",
+        "image_rect_size": "28, 68"
+    },
+    "C": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "142, 190",
+        "image_rect_size": "40, 49"
+    },
+    "K": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "220, 245",
+        "image_rect_size": "39, 47"
+    },
+    ",": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "90, 384",
+        "image_rect_size": "13, 23"
+    },
+    "O": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "224, 190",
+        "image_rect_size": "41, 49"
+    },
+    "Y": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "223, 293",
+        "image_rect_size": "44, 47"
+    },
+    "X": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "177, 293",
+        "image_rect_size": "45, 47"
+    },
+    "A": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "369, 190",
+        "image_rect_size": "45, 47"
+    },
+    "i": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "76, 74",
+        "image_rect_size": "24, 58"
+    },
+    "k": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "101, 74",
+        "image_rect_size": "37, 58"
+    },
+    "o": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "74, 341",
+        "image_rect_size": "39, 42"
+    },
+    "j": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "0, 0",
+        "image_rect_size": "29, 73"
+    },
+    "Q": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "360, 0",
+        "image_rect_size": "43, 59"
+    },
+    "P": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "374, 245",
+        "image_rect_size": "35, 47"
+    },
+    "h": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "41, 74",
+        "image_rect_size": "34, 58"
+    },
+    "a": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "348, 293",
+        "image_rect_size": "39, 42"
+    },
+    "y": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "0, 190",
+        "image_rect_size": "40, 54"
+    },
+    "U": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "333, 190",
+        "image_rect_size": "35, 48"
+    },
+    "w": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "299, 341",
+        "image_rect_size": "45, 40"
+    },
+    "t": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "386, 133",
+        "image_rect_size": "37, 49"
+    },
+    "f": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "0, 74",
+        "image_rect_size": "40, 58"
+    },
+    "G": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "183, 190",
+        "image_rect_size": "40, 49"
+    },
+    "N": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "337, 245",
+        "image_rect_size": "36, 47"
+    },
+    "I": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "185, 245",
+        "image_rect_size": "34, 47"
+    },
+    ";": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "128, 190",
+        "image_rect_size": "13, 51"
+    },
+    "e": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "37, 341",
+        "image_rect_size": "36, 42"
+    },
+    "\"": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "104, 384",
+        "image_rect_size": "29, 22"
+    },
+    "L": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "260, 245",
+        "image_rect_size": "35, 47"
+    },
+    "x": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "345, 341",
+        "image_rect_size": "40, 40"
+    },
+    "{": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "139, 0",
+        "image_rect_size": "30, 68"
+    },
+    "m": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "114, 341",
+        "image_rect_size": "40, 41"
+    },
+    "'": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "76, 384",
+        "image_rect_size": "13, 24"
+    },
+    "s": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "388, 293",
+        "image_rect_size": "33, 42"
+    },
+    "p": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "241, 133",
+        "image_rect_size": "36, 55"
+    },
+    "v": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "257, 341",
+        "image_rect_size": "41, 40"
+    },
+    "M": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "296, 245",
+        "image_rect_size": "40, 47"
+    },
+    "z": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "386, 341",
+        "image_rect_size": "37, 40"
+    },
+    "r": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "190, 341",
+        "image_rect_size": "32, 41"
+    },
+    "B": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "0, 245",
+        "image_rect_size": "35, 47"
+    },
+    "J": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "303, 190",
+        "image_rect_size": "29, 48"
+    },
+    "W": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "131, 293",
+        "image_rect_size": "45, 47"
+    },
+    "D": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "36, 245",
+        "image_rect_size": "39, 47"
+    },
+    "(": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "39, 0",
+        "image_rect_size": "29, 68"
+    },
+    "q": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "278, 133",
+        "image_rect_size": "36, 55"
+    },
+    "E": {
+        "image_content": "http://www.roblox.com/asset/?id=15055075335",
+        "image_rect_offset": "76, 245",
+        "image_rect_size": "35, 47"
+    }
+}
